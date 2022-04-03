@@ -13,7 +13,7 @@
     "directory": "packages/portal"
   },
   "dependencies": {
-    "@reach/utils": "0.17.0",
+    "@reach/utils": "https://github.com/michax/reach-ui/raw/main/packages/utils/reach-utils-0.17.0.tgz",
     "tiny-warning": "^1.0.3",
     "tslib": "^2.3.0"
   },
