@@ -1,6 +1,6 @@
 {
   "name": "@reach/dropdown",
-  "version": "0.16.2",
+  "version": "0.17.0",
   "description": "React dropdown menu.",
   "author": "React Training <hello@reacttraining.com>",
   "license": "MIT",
@@ -13,19 +13,19 @@
     "directory": "packages/dropdown"
   },
   "dependencies": {
-    "@reach/auto-id": "0.16.0",
+    "@reach/auto-id": "0.17.0",
     "@reach/descendants": "0.16.1",
-    "@reach/popover": "0.16.2",
-    "@reach/utils": "0.16.0",
+    "@reach/popover": "0.17.0",
+    "@reach/utils": "0.17.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || 17.x",
-    "react-dom": "^16.8.0 || 17.x"
+    "react": "^16.8.0 || 17.x || 18.x",
+    "react-dom": "^16.8.0 || 17.x || 18.x"
   },
   "main": "dist/reach-dropdown.cjs.js",
   "module": "dist/reach-dropdown.esm.js",

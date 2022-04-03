@@ -13,23 +13,23 @@
     "directory": "packages/combobox"
   },
   "dependencies": {
-    "@reach/auto-id": "0.16.0",
+    "@reach/auto-id": "0.17.0",
     "@reach/descendants": "0.16.1",
-    "@reach/popover": "0.16.2",
-    "@reach/portal": "0.16.2",
-    "@reach/utils": "0.16.0",
+    "@reach/popover": "0.17.0",
+    "@reach/portal": "0.17.0",
+    "@reach/utils": "0.17.0",
     "prop-types": "^15.7.2",
     "tiny-warning": "^1.0.3",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
     "latinize": "0.3.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || 17.x",
-    "react-dom": "^16.8.0 || 17.x"
+    "react": "^16.8.0 || 17.x || 18.x",
+    "react-dom": "^16.8.0 || 17.x || 18.x"
   },
   "main": "dist/reach-combobox.cjs.js",
   "module": "dist/reach-combobox.esm.js",

@@ -1,6 +1,6 @@
 {
   "name": "@reach/window-size",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "description": "Measure the window size in React",
   "author": "React Training <hello@reacttraining.com>",
   "license": "MIT",
@@ -13,17 +13,17 @@
     "directory": "packages/window-size"
   },
   "dependencies": {
-    "@reach/utils": "0.16.0",
+    "@reach/utils": "0.17.0",
     "prop-types": "^15.7.2",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || 17.x",
-    "react-dom": "^16.8.0 || 17.x"
+    "react": "^16.8.0 || 17.x || 18.x",
+    "react-dom": "^16.8.0 || 17.x || 18.x"
   },
   "main": "dist/reach-window-size.cjs.js",
   "module": "dist/reach-window-size.esm.js",
