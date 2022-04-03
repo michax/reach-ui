@@ -1,6 +1,6 @@
 {
   "name": "@reach/disclosure",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "Accessible React disclosure component",
   "author": "React Training <hello@reacttraining.com>",
   "license": "MIT",
